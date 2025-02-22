@@ -2,8 +2,7 @@
   width: 300px;
   height: 220px;
   border: 1px solid black;
-  float: left;
-  margin-left: 20px;
+  margin-top: 5px;
   display: flex;
   justify-content: center;
   align-items: center;
